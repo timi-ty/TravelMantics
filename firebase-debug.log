@@ -1,0 +1,26 @@
+[debug] [2019-08-06T17:26:11.068Z] ----------------------------------------------------------------------
+[debug] [2019-08-06T17:26:11.081Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Anyi Baba\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js setup:emulators:firestore
+[debug] [2019-08-06T17:26:11.082Z] CLI Version:   7.2.2
+[debug] [2019-08-06T17:26:11.082Z] Platform:      win32
+[debug] [2019-08-06T17:26:11.083Z] Node Version:  v12.7.0
+[debug] [2019-08-06T17:26:11.087Z] Time:          Tue Aug 06 2019 18:26:11 GMT+0100 (West Africa Standard Time)
+[debug] [2019-08-06T17:26:11.088Z] ----------------------------------------------------------------------
+[debug] 
+[info] i  firestore: downloading cloud-firestore-emulator-v1.6.2.jar...
+[debug] [2019-08-06T17:26:21.544Z] Error: 10264:error:1408F119:SSL routines:ssl3_get_record:decryption failed or bad record mac:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:677:
+
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2019-08-06T17:26:30.509Z] ----------------------------------------------------------------------
+[debug] [2019-08-06T17:26:30.513Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Anyi Baba\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js setup:emulators:firestore
+[debug] [2019-08-06T17:26:30.513Z] CLI Version:   7.2.2
+[debug] [2019-08-06T17:26:30.513Z] Platform:      win32
+[debug] [2019-08-06T17:26:30.513Z] Node Version:  v12.7.0
+[debug] [2019-08-06T17:26:30.515Z] Time:          Tue Aug 06 2019 18:26:30 GMT+0100 (West Africa Standard Time)
+[debug] [2019-08-06T17:26:30.515Z] ----------------------------------------------------------------------
+[debug] 
+[info] i  firestore: downloading cloud-firestore-emulator-v1.6.2.jar...
+[debug] [2019-08-06T17:28:01.846Z] Error: 15256:error:1408F119:SSL routines:ssl3_get_record:decryption failed or bad record mac:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:677:
+
+[error] 
+[error] Error: An unexpected error has occurred.

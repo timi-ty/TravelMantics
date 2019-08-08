@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TravelMantics</string>
+    <string name="hint_desc">Description</string>
+    <string name="hint_price">Price</string>
+    <string name="hint_title">Title</string>
+    <string name="save_menu">Save Deal</string>
+    <string name="new_trip_message">Changes Saved Successfully!</string>
+    <string name="tvImage_desc">Beautiful Scenery</string>
+    <string name="ellipsis">&#8230;</string>
+    <string name="new_travel_deal">New Travel Deal</string>
+    <string name="delete_deal">Delete Deal</string>
+    <string name="delete_failed">Failed to delete deal. Cannot delete unsaved deals</string>
+    <string name="delete_success">Deal deleted successfully</string>
+    <string name="sign_in_message">Welcome Back</string>
+    <string name="sign_in_prompt">Please sign-in to begin managing trips</string>
+    <string name="log_out_prompt">Sign Out</string>
+    <string name="save_fail_message">Failed to modify database</string>
+    <string name="admin_prompt">Signed in as admin</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="beautiful_scenery">Beautiful Scenery</string>
+    <string name="img_up_success">Picture Uploaded Successfully!</string>
+    <string name="img_up_failure">Upload Failed. Please try again.</string>
+    <string name="no_image">Sorry, no image exists for this deal</string>
+</resources>
