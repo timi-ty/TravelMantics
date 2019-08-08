@@ -18,7 +18,7 @@ public class TravelDeal implements Serializable{
         this.description = description;
     }
 
-    String getTitle() {
+    public String getTitle() {
         return title;
     }
 
